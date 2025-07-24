@@ -138,7 +138,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 9. Contextual Pricing for Lipschitz Buyers, NIPS, 2018.
 10. Online Pricing with Strategic and Patient Buyer, MSR, NIPS, 2016.
 11. Correlated Bandits for Dynamic Pricing via the ARC algorithm, arXiv, 2021.
-12. Dynamic Online Pricing with Incomplete Information Using Multiarmed Bandit Experiments, Marketing Science, 2019. **(in progress)**
+12. Dynamic Online Pricing with Incomplete Information Using Multiarmed Bandit Experiments, Marketing Science, 2019. **(in progress)** минус в том, что автор статьи указывает, что оно работает только в рамках низкоконкурентного рынка, а мы работаем несколько в другой отрасли
 13. Online Learning and Pricing with Reusable Resources: Linear Bandits with Sub-Exponential Rewards, ICML, 2022.
 
 #### DRL
