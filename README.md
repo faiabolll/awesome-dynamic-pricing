@@ -142,10 +142,10 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 13. Online Learning and Pricing with Reusable Resources: Linear Bandits with Sub-Exponential Rewards, ICML, 2022.
 
 #### DRL
-1. Dynamic Pricing on E-commerce Platform with Deep Reinforcement  Learning, Alibaba, 2019.
+1. Dynamic Pricing on E-commerce Platform with Deep Reinforcement  Learning, Alibaba, 2019. **(in progress)**
 2. Reinforcement Mechanism Design, with Applications to Dynamic Pricing in Sponsored Search Auctions, Baidu, AAAI, 2020.
 3. Learning Resource Allocation and Pricing for Cloud Profit Maximization, AAAI, 2019.
-4. Latent Dirichlet Allocation for Internet Price War. Ant Finacial Services, AAAI, 2019.
+4. Latent Dirichlet Allocation for Internet Price War. Ant Finacial Services, AAAI, 2019. **(in progress)**
 5. Online Revenue Maximization for Server Pricing, IJCAI, 2020.
 6. Dispatching Through Pricing: Modeling Ride-Sharing and Designing Dynamic Prices, IJCAI, 2019.
 
